@@ -8,12 +8,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **innovative software solutions** that make a real impact
-- 🌱 I'm constantly learning **new technologies and best practices** in software development
-- 👯 I'm open to collaborating on **interesting projects** and **open-source initiatives**
-- 💬 Ask me about **web development, software architecture, or anything tech-related**
-- 📫 Reach me at: **[Your Email]** or connect on **[LinkedIn Profile]**
-- ⚡ Fun fact: **I enjoy solving challenging problems and exploring emerging technologies**
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| - 🔭 I'm currently working on **innovative software solutions** that make a real impact<br>- 🌱 I'm constantly learning **new technologies and best practices** in software development<br>- 👯 I'm open to collaborating on **interesting projects** and **open-source initiatives**<br>- 💬 Ask me about **web development, software architecture, or anything tech-related**<br>- 📫 Reach me at: **[Your Email]** or connect on **[LinkedIn Profile]**<br>- ⚡ Fun fact: **I enjoy solving challenging problems and exploring emerging technologies** | <img height="280" width="380" alt="Developer GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> |
 
 ---
 
